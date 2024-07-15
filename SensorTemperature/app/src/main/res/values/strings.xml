@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sensor Temperature</string>
+    <string name="channel_name">MyNotificationChannel</string>
+    <string name="channel_description">Description of my notification channel</string>
+</resources>
